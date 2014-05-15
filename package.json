@@ -1,0 +1,27 @@
+{
+  "name": "HerokuNode",
+  "version": "0.0.0",
+  "description": "This example app is teaching me to run Node with Heroku!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SwampGuzzler/HerokuNode.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Lucas Cotner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwampGuzzler/HerokuNode/issues"
+  },
+  "homepage": "https://github.com/SwampGuzzler/HerokuNode",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.2.0"
+  }
+}
